@@ -1,23 +1,29 @@
-# virtual-learning-environment
-Web-based virtual learning system developed as undergraduate final year project
-/docs
-/src
 # Virtual Learning Environment
 
 ## Overview
-This project implements a web-based virtual learning environment designed to
-support digital content delivery and student–instructor interaction.
+This project is a web-based virtual learning environment developed as my
+undergraduate final year project. It focuses on digital content delivery and
+user interaction in an online learning setting.
+
+## Objectives
+- Provide accessible learning materials online
+- Support interaction between learners and instructors
+- Explore usability challenges in digital education systems
 
 ## Features
 - User authentication
-- Course content management
+- Course and content management
 - Learning material access
 
-## Technologies
+## Technologies Used
 - HTML
-- SQL
+- SQL (MySQL)
 - Backend scripting
 
+## Demo
+Screenshots and system flow diagrams are available in the `/docs` folder.
+
 ## Motivation
-This project was developed as my undergraduate final year project to explore
-usability and accessibility challenges in digital learning platforms.
+This project was developed to study usability, accessibility, and scalability
+issues in virtual learning platforms.
+
